@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d53bfa-9e3a-41e7-a6ac-1dba46681e5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WBDTSIUSh1nHb4knjm8rLdFF1l" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4183908" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.MessagePageTest.selectMultipleContactTest">
+    <configuration name="C:/Users/Rbooz/Desktop/Test/testng1/src/main/resources/testng_regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng_regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Rbooz/Desktop/Test/testng1/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatePageTest.verifyTitleOfCreatePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.testcases" />
+      <option name="MAIN_CLASS_NAME" value="test.java.testcases.CreatePageTest" />
+      <option name="METHOD_NAME" value="verifyTitleOfCreatePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagePageTest.selectMultipleContactTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="test.java.testcases" />
+      <option name="MAIN_CLASS_NAME" value="test.java.testcases.MessagePageTest" />
+      <option name="METHOD_NAME" value="selectMultipleContactTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGBasics (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.TestNGSessions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.TestNGSessions" />
+      <option name="MAIN_CLASS_NAME" value="main.TestNGSessions.TestNGBasics" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGBasics" type="TestNG" nameIsGenerated="true">
+      <module name="testng1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.TestNGSessions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestNGSessions" />
+      <option name="MAIN_CLASS_NAME" value="TestNGSessions.TestNGBasics" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MessagePageTest.selectMultipleContactTest" />
+        <item itemvalue="TestNG.C:/Users/Rbooz/Desktop/Test/testng1/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/Rbooz/Desktop/Test/testng1/src/main/resources/testng_regression.xml" />
+        <item itemvalue="TestNG.TestNGBasics (1)" />
+        <item itemvalue="TestNG.CreatePageTest.verifyTitleOfCreatePage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d53bfa-9e3a-41e7-a6ac-1dba46681e5f" name="Default Changelist" comment="" />
+      <created>1578614101406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578614101406</updated>
+    </task>
+    <servers />
+  </component>
+</project>
